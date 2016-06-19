@@ -1,0 +1,18 @@
+#data for sort
+src/sort.in
+src/sort.out
+
+#idea files
+.idea/*
+*/.idea/*
+
+#virtualenv
+venv/*
+
+#other
+other/*
+
+#pyc
+*/*.pyc
+*/*.py~
+
